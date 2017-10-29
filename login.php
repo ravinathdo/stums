@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
     <head>
-        <title>Free Guidance Website Template | Home :: w3layouts</title>
+        <title>Student Management</title>
         <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -28,11 +28,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <div class="header_top">
                             <div class="menu">
                                 <ul>
-                                    <li class="active"><a href="index.html">Home</a></li>
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="staff.html">Staff</a></li>
-                                    <li><a href="programs.html">Programs</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li class="active"><a href="index.php">Home</a></li>
+                                    <li><a href="#">About</a></li>
+                                    <li><a href="#">Staff</a></li>
+                                    <li><a href="#">Programs</a></li>
+                                    <li><a href="#">Contact</a></li>
                                     <div class="clear"></div>
                                 </ul>
                             </div>
